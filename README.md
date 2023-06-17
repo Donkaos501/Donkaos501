@@ -49,7 +49,7 @@
 [steam-shield]: https://img.shields.io/badge/-Steam-black.svg?style=for-the-badge&logo=steam&colorB=555
 [steam-url]:https://steamcommunity.com/profiles/76561199040173544/ 
 
-[discord-shield]: https://img.shields.io/badge/-Donkaos_7566-black.svg?style=for-the-badge&logo=discord&colorB=555
+[discord-shield]: https://img.shields.io/badge/-Donkaos-black.svg?style=for-the-badge&logo=discord&colorB=555
 [discord-url]: https://discord.gg/6aj6Cet4QN
 
 [insta-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
