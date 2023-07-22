@@ -53,7 +53,7 @@
 [discord-url]: https://discord.gg/6aj6Cet4QN
 
 [insta-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
-[insta-url]: https://www.instagram.com/karl_kfm/
+[insta-url]: https://www.instagram.com/donkaos501/
 
 [spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
 [spotify-url]: https://open.spotify.com/user/karl.d.k
